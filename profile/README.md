@@ -1,4 +1,4 @@
-![Elixor header](../assets/elixor.png)
+![Elixor header](https://github.com/ElixorTeam/.github/blob/main/assets/elixor.png)
 
 ## Get Involved
 Right now, we are creating contemporary open-source projects. If you are interested, please stay updated on our team's progress and success.
